@@ -23,4 +23,4 @@ def remove_strawberry(contacts)
       end #attributes.each
     end #if
   end #contacts.each
-end
+end #remove_strawberry
